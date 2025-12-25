@@ -90,5 +90,3 @@ TRUSTSCOPE prioritizes safety by being conservative in its decisions:
 - **UI Framework**: React, Vite, Lucide-React
 - **Math/Stats**: NumPy, SciPy (Mahalanobis, Chi-Square, ECE)
 
----
-*Developed by Senior Applied AI Engineering for Production-Grade Reliability.*
