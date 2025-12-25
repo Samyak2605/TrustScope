@@ -6,9 +6,10 @@ TRUSTSCOPE is a production-grade AI system designed to evaluate whether a model 
 ---
 
 ## 🎥 Demo
-![TRUSTSCOPE Dashboard](/Users/macbook/.gemini/antigravity/brain/35e369ad-3fe0-4506-be59-5961f9cc787e/uploaded_image_1766662132290.png)
 
-> **Note:** The system is fully operational locally. The dashboard visualizes real-time trust metrics and natural language explanations synthesized from complex mathematical signals.
+
+https://github.com/user-attachments/assets/1c459fe2-87f4-403d-ad90-262032772bae
+
 
 ---
 
